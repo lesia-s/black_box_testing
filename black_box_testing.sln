@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "black_box_testing", "black_box_testing\black_box_testing.csproj", "{B8325420-C948-4D0F-B65F-B3EE19345F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8325420-C948-4D0F-B65F-B3EE19345F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8325420-C948-4D0F-B65F-B3EE19345F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8325420-C948-4D0F-B65F-B3EE19345F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8325420-C948-4D0F-B65F-B3EE19345F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C53FF56-88C4-4A4F-9491-461EBC061DCF}
+	EndGlobalSection
+EndGlobal
